@@ -1,0 +1,4 @@
+gift-box:
+  name: "Your Gift Box"
+  key-namespace: "Your giftbox"
+  key-value: "your_stored_item"

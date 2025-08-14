@@ -1,0 +1,8 @@
+name: GiftBox
+main: com.yourname.giftbox.GiftBox
+version: 1.0
+api-version: 1.19
+commands:
+  giftbox:
+    description: Wrap an item into a gift box.
+    usage: /giftbox <message>
