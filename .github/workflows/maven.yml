@@ -1,6 +1,7 @@
 name: Build & Release Plugin
 
 on:
+  workflow_dispatch:
   push:
     tags:
       - 'v*' # Runs when pushing tags like v1.0.0
