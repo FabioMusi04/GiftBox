@@ -1,24 +1,23 @@
-# Table of Contents
+# Table of contents
 
 * [Welcome](README.md)
 
 ## Getting Started
 
-* [Installation](./getting-started/installation.md)
+* [Installation](getting-started/installation.md)
 
 ## Commands
 
-* [Commands](./getting-started/commands.md)
+* [Commands](getting-started/commands.md)
 
 ## Configuration
 
-* [Config.yml Setup](./basics/configuration.md)
+* [Config.yml Setup](basics/configuration.md)
 
 ## FAQ & Troubleshooting
 
-* [FAQ](faq/faq.md)
-* [Common Issues](faq/common-issues.md)
+* [FAQ](faq-and-troubleshooting/faq.md)
 
 ## Changelog
 
-* [Release Notes](changelog/changelog.md)
+* [Changelog](changelog/changelog.md)
