@@ -1,5 +1,4 @@
 ---
-icon: settings
 layout:
   width: default
   title:
@@ -16,19 +15,17 @@ layout:
     visible: true
 ---
 
-# Configuration
+# Config.yml Setup
 
 GiftBox comes with a `config.yml` file that allows you to customize plugin behavior, messages, and item display.
 
 When you first run the plugin, the configuration file is automatically generated in:
 
 ```
-
 plugins/GiftBox/config.yml
+```
 
-````
-
----
+***
 
 ## Configuration Options
 
@@ -39,7 +36,7 @@ The name displayed on the wrapped item:
 ```yaml
 gift-box:
   name: "Gift Box"
-````
+```
 
 ### Namespaced Key
 
@@ -52,7 +49,7 @@ gift-box:
 
 You usually won’t need to change this unless you are managing multiple plugins with similar storage keys.
 
----
+***
 
 ## Example Full Configuration
 
@@ -63,7 +60,7 @@ gift-box:
   key-value: "stored_item"
 ```
 
----
+***
 
 ## Tips
 
