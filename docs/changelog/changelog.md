@@ -4,11 +4,13 @@ description: This document tracks all significant updates to the GiftBox plugin.
 
 # Changelog
 
-## Changelog
+{% stepper %}
+{% step %}
+**Version 1.0.0**
 
-This document tracks all significant updates to the GiftBox plugin.
+1. Start by initializing your application with version 1.0.0. This serves as the baseline version for your project.
 
-### \[1.0.0] - Initial Release
+* Initial Release
 
 **Released:** 2025-08-14
 
@@ -21,18 +23,10 @@ This document tracks all significant updates to the GiftBox plugin.
 * Configurable `config.yml` options:
   * Gift box display name
   * Internal storage identifier
-  * User messages for wrapping and errors
 * Sound effect on successful item wrap.
 * Basic permissions to ensure player-only command usage.
-
-#### Fixed
-
-* None (first release)
-
-#### Known Issues
-
-* Display name may not support all MiniMessage formats.
-* Stacked item wrapping not available.
+{% endstep %}
+{% endstepper %}
 
 ***
 
